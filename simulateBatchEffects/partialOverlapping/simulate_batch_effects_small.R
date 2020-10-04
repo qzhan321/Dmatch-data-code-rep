@@ -1,10 +1,3 @@
-#### this is for partial overlapping: two cases; 
-#### share six out of nine and share four out of nine celltypes; 
-#### and two, for the two, share the most common two celltypes
-
-# Author : Qi Zhan
-# Date : 29/06/2020
-# Proj : Run dmatch pipeline
 
 ########################
 #load packages
