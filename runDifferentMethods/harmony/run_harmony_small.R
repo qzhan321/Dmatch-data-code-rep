@@ -1,6 +1,3 @@
-# Author : Qi Zhan
-# Date : 29/06/2020
-# Proj : harmony dmatch pipeline
 
 ########################
 #load packages
