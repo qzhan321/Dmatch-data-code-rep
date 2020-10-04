@@ -1,14 +1,4 @@
 
-# Purpose: Second function to be called in ARI pipeline
-#          Performs subsampling, extracts common cells for batch score
-#          calculation, calculates the ARI scores for batch and cell type
-#          Returns individual text files for each batch-correction method
-
-####################################
-# ARI Adjusted Rand Index (sampled)
-####################################
-# Input: myData: 20 PCs and batch, celltype columns
-# cpcs: vector containing column number of PCs in myData
 
 ari_calcul_sampled <- function(myData, cpcs, isOptimal=FALSE, 
                                method_use='resnet',
