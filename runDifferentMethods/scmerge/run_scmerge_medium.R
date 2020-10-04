@@ -1,8 +1,4 @@
 
-# Author : Marion Chevrier
-# Date : 01/10/2019
-# Proj : Run scMerge pipeline
-
 ########################
 #load packages
 
