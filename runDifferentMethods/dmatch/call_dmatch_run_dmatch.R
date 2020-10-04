@@ -1,7 +1,3 @@
-# Author : Qi Zhan
-# Date : 06/27/2020
-# Proj : Dmatch pipeline
-
 #' dmatch pipeline
 
 #' @param batch_data : the preprocessed data
