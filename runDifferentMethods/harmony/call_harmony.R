@@ -1,9 +1,4 @@
-# Author : Qi Zhan
-# Date : 06/27/2020
-# Proj : Dmatch pipeline
 
-#' dmatch pipeline
-#' 
 #' @param expr_mat_dmatch : expression matrix for seurat object, genes by cells
 #' @param metadata : dataframe with metadata for seurat object
 #' @param projectName : name of the seurat project
