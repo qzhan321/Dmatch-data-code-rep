@@ -1,10 +1,4 @@
 
-# Purpose: Third function to be called in ARI pipeline
-#          Following calculation of ARI scores for all batch-
-#          correction methods, this function is used to 
-#          produce F1 score based on normalised ARI scores 
-#          Returns a CSV file containing median and F1 scores
-#          for all batch-correction methods
 
 conclude_ARISampled <- function(dir_this, csv_title, nbiters = 20){
   library(ggplot2)
