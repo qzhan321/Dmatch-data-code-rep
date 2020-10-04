@@ -1,7 +1,4 @@
 
-# Purpose: First function to be called in ARI pipeline
-#          Reads in relevant dataset and grabs essential columns
-#          Calls the following function 'ari_calcul_sampled'
 
 run_ARISampled <- function(fn, this_dir, out_dir, meta_dir, eval_metric, methods_use, cpcs = 1:20, 
                            celltypelb='celltype', batchlb='batch',batch_effect = "", ratio_name="", 
