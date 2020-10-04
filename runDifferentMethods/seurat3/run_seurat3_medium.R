@@ -1,7 +1,4 @@
 
-# Author : Qi Zhan
-# Date : 06/27/2020
-# Proj : Dmatch pipeline
 
 ########################
 #load packages
