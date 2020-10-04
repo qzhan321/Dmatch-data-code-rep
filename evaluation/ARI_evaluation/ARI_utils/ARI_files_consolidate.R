@@ -1,14 +1,4 @@
-# Author : Nicole Lee
-# Date : 29/08/2019
-# Purpose: Fourth and last function to be called in ARI pipeline
-#          Consolidate all raw data and write them in a text file
 
-#assume all ARI files are within an 'output' folder specific to a dataset
-
-###start from within said folder
-#setwd("./ARI_dataset1/ARISampled_CT/")
-
-##eg. combinedresult<-ari_consolidate()
 
 ari_consolidate<-function(){
   baseName<-rev(unlist(strsplit(getwd(), split = "/", fixed = TRUE)))[1]
