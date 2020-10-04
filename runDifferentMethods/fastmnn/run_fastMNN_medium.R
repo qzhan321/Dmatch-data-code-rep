@@ -1,7 +1,4 @@
 
-# Author : Kok Siong Ang 
-# Date : 18/09/2019
-# Proj : Run fast MNN pipeline
 
 ########################
 #load packages
