@@ -1,10 +1,4 @@
 
-# Author : Kok Siong Ang 
-# Date : 18/09/2019
-# Proj : fast MNN pipeline
-
-#' fast MNN pipeline
-#' 
 
 
 
